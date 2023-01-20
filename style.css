@@ -1,0 +1,345 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.heading {
+    color: #ff80bf;
+    font-family: 'Satisfy', cursive;
+    font-size: 2.5rem;
+}
+
+p {
+    color: #001a09;
+}
+
+.navbar-toggler:focus, .navbar-toggler:active {
+outline: none !important;
+}
+
+.navbar {
+    background-color: #006622 !important;
+}
+.nav-link {
+    color: #003311!important;
+}
+.nav-link:hover {
+    color: #00b33c!important;
+}
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+    font-size: 1.7rem;
+}
+.form-inline input:focus, .form-inline input:active  {
+    outline: none !important;
+    box-shadow: none;
+}
+.form-inline input {
+    outline: none!important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.dropdown-menu {
+    background-color: #00802b;
+}
+.dropdown-menu a:hover {
+    background: none!important;
+    color: #00b33c;
+}
+
+/*Carousel 1 ------------*/
+
+.carousel img {
+    height: 551px;
+}
+.carousel {
+    margin-bottom: 5rem;
+}
+
+.category h2 {
+    margin-bottom: 5rem;
+}
+
+.category {
+    margin-bottom: 5rem;
+}
+
+.carousel-caption h2 {
+    color: white;
+    text-shadow: 1px 0.5px 0.5px 1px #d9d9d9;
+    font-size: 3.5rem;
+    font-family: 'Satisfy', cursive;
+    margin-top: -17rem;
+}
+
+/*Shop by category*/
+
+
+.hover12 figure {
+	background: #1abc9c;
+}
+.hover12 figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover12 figure:hover img {
+	opacity: .5;
+}
+
+.thedives:hover {
+ box-shadow: 1px 1px 1px 1px #ffcccc !important;
+}
+
+.heading1 {
+    color: #94b8b8;
+    font-family: 'Satisfy', cursive;
+    font-size: 2.2rem; 
+}
+
+.btn-outline-danger  {
+    color: #ff80bf!important;
+    border-color: #ff80bf!important;
+}
+
+.btn-outline-danger:hover {
+    background-color: #ffe6ff!important;
+}
+
+/*Newsletter--------------*/
+
+.home-newsletter {
+    padding: 80px 0;
+    background: #f84e77;
+    }
+    
+    .home-newsletter .single {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2; 
+}
+
+    .home-newsletter .single h2 {
+    font-size: 22px;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 40px; 
+}
+
+    .home-newsletter .single .form-control {
+    height: 50px;
+    background: rgba(255, 255, 255, 0.6);
+    border-color: transparent;
+    border-radius: 20px 0 0 20px; 
+}
+
+    .home-newsletter .single .form-control:focus .form-control:active  {
+    box-shadow: none !important;
+    border-color: #800040; 
+}
+
+    .home-newsletter .single .btn {
+    min-height: 50px; 
+    border-radius: 0 20px 20px 0;
+    background: #e60073;
+    }
+
+    .home-newsletter button:active, .home-newsletter button:focus {
+    outline: none!important;
+    border: none !important;
+    box-shadow: none!important; 
+    }
+
+    .form-control:active, .form-control:focus {
+        outline: none!important;
+        border: none !important;
+        box-shadow: none!important;   
+    }
+
+    /*----About--*/
+
+    .about {
+        margin-bottom: 7rem;
+    }
+    .infoabout {
+        background-color: #ffe6f2;
+        border: 1px solid #ffcce6;
+        padding: 1rem;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .about p {
+        text-align: center;
+    }
+
+
+    /*-------shop--*/
+    .tada {
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+      }
+
+      .heading1 {
+          text-decoration: underline;
+      }
+ /*zoom1*/   
+
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .5s ease-in-out;
+	transition: .5s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+figure:hover+span {
+	bottom: -36px;
+	opacity: 1;
+}
+
+/*zoom1 ends*/
+
+
+span {
+    color: #ff80bf;
+    font-size: 1.3rem;
+    font-family: 'Satisfy', cursive;
+}
+
+
+    .butter, .scrubs, .oils, .soaps {
+        margin-bottom: 8rem;
+    }
+     hr {
+        color: #ff80ff !important;
+    }
+
+    .products h2 {
+        margin-bottom: 3rem;
+    }
+
+    .butter img, .soaps img, .scrubs img, .oils img {
+        height: 260px;
+        width: 350px;
+        margin-bottom: 1rem;
+    }
+
+    .heading1 { 
+        margin-top: 6rem;
+        margin-left: 20%;
+    }
+
+    @media (max-width: 768px) {
+        .butter img,  .scrubs img, .oils img, .soaps img {
+          margin-left: 15%;
+        } 
+        
+        .heading1 { 
+            margin-top: 1rem;
+            margin-left: 35%;
+        }
+    }
+
+    @media (max-width: 576px) {
+        .butter img,  .scrubs img, .oils img, .soaps img {
+            margin-left: 3%;
+          }
+    }
+
+    /*Testimonials--------*/
+
+    .tcarousel {
+        background-color: #f0f5f5;
+        height: 300px;
+    }
+
+    .tcarousel h2 {
+        padding-top: 3rem !important;
+        margin-bottom: 2.5rem;
+        color: #94b8b8!important;
+    }
+
+    .testim {
+        color: #527a7a;
+        font-size: 1.2rem;
+    }
+
+    h3 {
+        color: #c2d6d6;
+        font-family: 'Satisfy', cursive;
+        font-size: 2rem;   
+    }
+
+    /*Contact-------*/
+
+    .contact {
+        margin-bottom: 5rem;
+    }
+
+    .contact p {
+        color: #527a7a;
+    }
+
+    footer {
+        background-color: #003311;
+        padding: 3rem;
+    }
+
+
+    /*tothetop*/
+
+    #myBtn {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: #527a7a;
+        color: white;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 10px;
+        font-size: 18px;
+      }
+      
+      #myBtn:hover {
+        background-color: #555;
+      }
+
+
+
+      /*thankyou====*/
+.text li {
+  display: inline-block;
+  float: left;
+  font-weight: 700;
+  font-size: 2em;
+  color:#ff80bf;
+  font-family: 'Satisfy', cursive;
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+  max-width: 2em;
+}
+.text.hidden li {
+  padding-left: 0;
+}
+.text.hidden li.ghost {
+  opacity: 0;
+  max-width: 0;
+}
+

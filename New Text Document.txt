@@ -1,0 +1,116 @@
+
+    <!---<div class="col-lg-4 col-md-6 col-sm-12 hover01">
+    
+      <div>
+        <figure><img class="img-fluid" src="butter/image3.jpeg" /></figure>
+        <span>Hover</span>
+      </div>
+
+      <div>
+        <figure><img class="img-fluid" src="butter/image12.jpg" /></figure>
+        <span>Hover</span>
+      </div>
+
+      <div>
+            <figure><img class="img-fluid" src="butter/image12.jpg" /></figure>
+            <span>Hover</span>
+     </div>
+
+      <div>
+        <figure><img class="img-fluid" src="butter/butter.jpg" /></figure>
+        <span>Hover</span>
+      </div>
+    
+
+<div class="container butter">
+    <div class="row">
+        <div id="butter" class="col">
+            <h2 class="heading1">Body Butter</h2>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <img class="img-fluid" src="" alt="">
+        </div>
+        <div class="col-lg-4  col-md-6 col-sm-12">
+                <img class="img-fluid" src="butter/image12.jpg" alt="">
+        </div>
+        <div class="col-lg-4  col-md-6 col-sm-12">
+                <img class="img-fluid" src="butter/image14.jpg" alt="">
+        </div>
+        <div class="col-lg-4  col-md-6 col-sm-12">
+                <img class="img-fluid" src="butter/butter.jpg" alt="">
+        </div>
+    </div>
+    <hr class="shophr">
+</div>
+
+<!--scrubs
+
+<div class="container scrubs">
+        <div class="row">
+            <div class="col" id="scrubs">
+                <h2 class="heading1">Body Scrubs</h2>
+            </div>
+    
+            <div class="col-lg-4 col-md-6">
+                <img class="img-fluid" src="scrubs/bodyscrub1.jpg" alt="">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                    <img class="img-fluid" src="scrubs/facescrub.jpg" alt="">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                    <img class="img-fluid" src="scrubs/facescrub4.jpg" alt="">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                    <img class="img-fluid" src="scrubs/image10.jpeg" alt="">
+            </div>
+        </div>
+        <hr class="shophr">
+    </div>
+
+    <!--oils-->
+
+    <div class="container oils">
+            <div class="row">
+                <div class="col" id="oils">
+                    <h2 class="heading1">Oils</h2>
+                </div>
+        
+                <div class="col-lg-4 col-md-6">
+                    <img class="img-fluid" src="oils/image77.jpeg" alt="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                        <img class="img-fluid" src="oils/image4.jpeg" alt="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                        <img class="img-fluid" src="oils/image5.jpeg" alt="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                        <img class="img-fluid" src="oils/image6.jpeg" alt="">
+                </div>
+            </div>
+            <hr class="shophr">
+        </div>
+
+    <!--butter-->
+
+    <div class="container soaps">
+            <div class="row">
+                <div class="col" id="soaps">
+                    <h2 class="heading1">Soaps</h2>
+                </div>
+        
+                <div class="col-lg-4 col-md-6">
+                    <img class="img-fluid" src="soaps/617xuMFcD7L._SX355_.jpg" alt="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                        <img class="img-fluid" src="soaps/Mens_Natural_Organic_Soap_Fir_Needle_Soap_600x.jpg" alt="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                        <img class="img-fluid" src="soaps/Mens_Natural_Organic_Soap_Peppermint_Tea_Tree_Soap_600x.jpg" alt="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                        <img class="img-fluid" src="soaps/c-coconut-oil-100g-1pc.jpg" alt="">
+                </div>
+            </div>
+        </div>
